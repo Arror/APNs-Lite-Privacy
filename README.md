@@ -1,39 +1,40 @@
-# APNs Lite
 
-APNs Lite是一个苹果设备推送测试工具。方便开发者调试推送。
+## APNs Lite
 
-## 特性
+APNs Lite is an Apple device push debug tool. It is convenient for developers to debug.
 
-a) 支持基于JWT的推送。
+## Feature
 
-b) 支持自定义负载。
+a) Support JWT-based push.
 
-c) 支持同时向多台设备推送消息。
+b) Support custom payload.
 
-d) 支持黑暗模式。
+c) Support pushing messages to multiple devices at the same time.
 
-## 使用
+d) Support dark mode.
 
-a) 拖拽证书文件到Auth Key位置。
+## Usage
 
-b) 输入Team ID、Key ID、Bundle ID、Device Token等信息。
+a) Drag and drop the .p8 file to the Auth Key area.
 
-c) 编辑Payload。
+b) Enter the Team ID, Key ID, Bundle ID, Device Token and other information.
 
-d) 点击Send按钮。
+c) Edit Payload.
 
-## 隐私政策
+d) Click the Send button.
 
-APNs Lite不会收集您的数据信息。
+## Privacy Policy
 
-a) APNs Lite不会收集您的Team ID、Key ID、Bundle ID、Device Token等信息，这些信息被安全的存储在macOS的Keychain中。
+APNs Lite will not collect your data.
 
-b) APNs Lite除了建立与苹果推送服务器的网络连接外不会建立其他的网络连接。
+a) APNs Lite will not collect your Team ID, Key ID, Bundle ID, Device Token and other information, which are stored securely in the macOS Keychain.
 
-c) APNs Lite不会收集您的App使用行为。
+b) APNs Lite will not establish a network connection other than the network connection with the Apple Push server.
 
-使用本App即表明您同意此隐私策略的条款和条件。如果您不同意本政策，请不要使用该App。我们保留权利。我们会不定期的增加、修改或删除本政策的内容。请定期浏览此网页查阅政策修改。如果您继续使用我的App，在我们的App条款调整后，意味着您已接受这些调整。
+c) APNs Lite will not collect your App usage behavior.
 
-## 联系我们
+By using this App, you agree to the terms and conditions of this privacy policy. If you do not agree with this policy, please do not use the App. We reserve the right. We will add, modify or delete the content of this policy from time to time. Please visit this page regularly to review policy changes. If you continue to use My App, after our App Terms are adjusted, it means that you have accepted these adjustments.
 
-如果您在使用中发现任何问题，以及您有更好的建议可创建issue或发邮件至hallo.maqiang@icloud.com与我联系。
+## Contact Us
+
+If you find any problems during use, and if you have better suggestions, you can create an issue or send an email to hallo.maqiang@icloud.com to contact me.
